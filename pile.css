@@ -19,6 +19,7 @@ footer {
 
 a {
     color: black;
+    font-style: bold;
 }
 
 
@@ -131,7 +132,7 @@ body {
     background-color: darkgray;
     font-family: italic;
     font-size: 18px;
-    font-style: normal;
+    font-style: bold;
     position: fixed;
     top: 0;
     left: 0;
